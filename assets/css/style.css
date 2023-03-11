@@ -35,6 +35,8 @@ nav {
 nav ul {
     list-style-type: none;
     text-align: center;
+
+    
 }
 
 nav li {
@@ -65,6 +67,7 @@ nav a:hover {
 
 .service {
     display: inline-block;
+    text-align: center;
     background-color: white;
     border: 5px solid green;
     border-radius: 5px;
